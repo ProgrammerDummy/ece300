@@ -121,3 +121,4 @@ print(f"    16-PSK costs {dB(computeEb(p16)/computeEb(q16)):+.2f} dB more at ide
 
 
 print("all internal checks passed")
+
